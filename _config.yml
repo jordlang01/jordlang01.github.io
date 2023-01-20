@@ -1,6 +1,6 @@
 #exclude: ["README.md"]
 
 remote_theme: just-the-docs/just-the-docs
-#logo: 
+logo: "/assets/images/neural-pathways.png"
 #color_scheme: cog_website
 
